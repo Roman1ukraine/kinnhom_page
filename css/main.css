@@ -813,15 +813,7 @@ color: #faa215 !important;
 	}
 }
 
-@media (max-width: 370px) {
-	.container {
-		padding: 0 15px;
-		width: 340px
-	}
-	.logo{
-		dispalay:none;
-	}
-}
+
 
 
 /* Extra small: 0px (320px) - 575px */
@@ -897,7 +889,15 @@ color: #faa215 !important;
 	}
 }
 
-
+@media (max-width: 370px) {
+	.container {
+		padding: 0 15px;
+		width: 340px
+	}
+	.logo{
+		dispalay:none;
+	}
+}
 
 
 
